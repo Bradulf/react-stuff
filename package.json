@@ -8,12 +8,23 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^33.0.0",
-    "react": "16.8.3",
+    "@react-native-community/netinfo": "^5.3.3",
+    "@types/googlemaps": "^3.39.2",
+    "@types/markerclustererplus": "^2.1.33",
+    "@types/react": "^16.9.19",
+    "core-js": "^3.6.4",
+    "core-js-webpack3-plugin": "^1.0.5",
+    "expo": "^33.0.7",
+    "expo-cli": "^3.11.7",
+    "react": "^16.6.0-alpha.8af6728",
     "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native": "^0.59.10",
+    "react-native-camera": "^3.16.0",
+    "react-native-reanimated": "^1.7.0",
     "react-native-web": "^0.11.4",
-    "react-navigation": "^3.11.0"
+    "react-native-webview": "^8.0.5",
+    "react-navigation": "^3.11.0",
+    "sharp-cli": "^1.13.1"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.1.1"
